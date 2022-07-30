@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "nodejs service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijay007-bit/node_repo.git"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "for",
+    "node"
+  ],
+  "author": "Vijay Vikram Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijay007-bit/node_repo/issues"
+  },
+  "homepage": "https://github.com/vijay007-bit/node_repo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
